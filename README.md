@@ -1,5 +1,5 @@
-# oracle-apex-cek-expire
-oracle-apex-cek-expire
+# oracle-apex-check-expire
+oracle-apex-check-expire
 
 ```
 select username, account_status, EXPIRY_DATE 
